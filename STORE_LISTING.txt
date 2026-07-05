@@ -1,0 +1,49 @@
+FLEETSIGHT — Google Play Store Listing
+com.quisy.fleetsight
+=====================================
+
+App name:
+  Fleetsight — Battleship Logic Puzzle
+
+Short description (max 80 chars):
+  Find the one true fleet. 150 hand-verified puzzles, one layout each.
+
+Full description:
+---------------------------------------------------------------
+Fleetsight is a ship-placement logic puzzle in the spirit of Battleship.
+
+A fleet of straight-line ships is hidden in the grid. The number beside
+each row and above each column tells you how many ship cells sit in that
+line. A handful of cells are already revealed as ship or water. Work the
+crossings between rows and columns — remembering that ships never touch,
+not even diagonally — and the one true fleet reveals itself.
+
+There is no guessing. Each of the 150 puzzles has been checked by a real
+solver to guarantee a single, logical fleet layout — a path of pure
+deduction always exists from the first cell to the last.
+
+FEATURES
+• 150 hand-verified puzzles across three charts
+   – Coastal Waters (6×6), Open Sea (8×8), Deep Ocean (9×9)
+• Guaranteed unique solution on every board — solvable by logic alone
+• Simple tap controls: cycle a cell between ship, water, and blank
+• Live conflict detection for touching ships and row/column overflow
+• Earn up to three stars per puzzle for efficient solving
+• Naval-chart visuals with brass clue numerals and steel-grey hulls
+• Calm sonar-toned ambient soundtrack and tactile feedback — both
+  toggleable
+• Fully offline. No ads, no accounts, no tracking. Progress stays on your
+  device.
+
+Find the one true fleet.
+
+Category: Puzzle
+Content rating: Everyone
+Tags: logic puzzle, brain teaser, battleship, ship placement, deduction, offline, no ads
+---------------------------------------------------------------
+
+ASSETS INCLUDED
+  - assets/icon.png            (512x512 app icon)
+  - assets/feature_graphic.png (1024x500 feature graphic)
+  - screens/                   (5 Play Store screenshots, 1080x1920)
+  - PRIVACY_POLICY.html        (host this and link it in the listing)
